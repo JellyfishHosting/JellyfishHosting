@@ -1,0 +1,2 @@
+- 👋 Hello! Welcome to the Jellyfish Hosting github. Here is where we store all of our open source projects.
+- 📫 We are a hosting company which allows you to host multiple different types of servers. To find out more head to https://jellyfishhosting.xyz
